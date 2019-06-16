@@ -3,16 +3,16 @@ Many utilities using ASP.NET C# which includes creating multiple TXT files, rena
 #
 
 ### File.Create
-##### Create multiple TXT files
+##### Create multiple TXT files.
 
 ### File.IncludeLine
-##### Include a line in multiple files
+##### Include a line in multiple files.
 
 ### File.Rename
-##### Rename multiple TXT files
+##### Rename multiple TXT files.
 
 ### Generate.PDF
 ##### Generate multiple PDF files using data from a spreadsheet.
 
 ### Text.Convert
-##### Convert from hex to string
+##### Convert from hex to string.
